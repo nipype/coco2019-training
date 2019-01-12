@@ -41,7 +41,7 @@
  - **Introducing Niflows: Reuse, Create, and Package your own Workflow**:
      - [presentation](https://effigies.github.io/niflows-intro/#1)
  - **Neuroscout**:
-     - TODO: link to the presentation
+     - [presentation](https://docs.google.com/presentation/d/1tAV3YEVw0Z-RkvLsgOhEQwLoYb-NzNpOEg3qCZZs5WA/edit)
      - [Neuroscout website](https://alpha.neuroscout.org/)
      - [FitLins repo](https://github.com/poldracklab/FitLins)
  - **OpenNeuro**:
