@@ -53,7 +53,7 @@
      - [presentation](https://docs.google.com/presentation/d/1we5_sLB05TmaGPZPbgsMPQopORFJCd8k0pPB8oERcdc/edit#slide=id.p)
      - [commands from the demo](https://docs.google.com/document/d/17FpKuLLrhhcz17XlE5wAjo_7tQhurtUttfanLjwF00c/edit?usp=sharing)
  - **Nipype in the cloud (SLURM, AWS batch)**:
-     - TODO: link to the presentation
+     - [presentation](http://www.reproducibleimaging.org/coco2019-training/presentations/nipype-cloud/#1)
  - **CSV to NIDM/JSON**: 
      - [demo](https://docs.google.com/document/d/1yRla0_I7NCMFEgAkG9qZRw1SB-qQQNkFymTp9A-lcv0/edit#heading=h.jak6t2w7bppu)
      
