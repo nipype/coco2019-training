@@ -2,6 +2,8 @@
  Training materials for the ReproNim day at https://coastal-coding.github.io
 
 ### Links to the presentations:
+ - **Introduction to Reproducible Neuroimaging: Motivations**
+     - [presentation](https://github.com/ReproNim/coco2019-training/blob/master/Introduction/Coastal_Coding_Motivation.pdf)
  - **The UNIX Shell**: 
      - [presentation / hands-on exercises](http://www.reproducibleimaging.org/coco2019-training/02-01-shell/) 
  - **Containers (Docker, Neurodocker, Singularity)**:
