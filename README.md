@@ -19,6 +19,7 @@
      - TODO: link to the presentation
  - **Pybids**:
      - TODO: link to the notebook/presentation
+     - [pybids website](https://bids-standard.github.io/pybids/)
  - **FAIR publishing**:
      - [presentation](https://github.com/ReproNim/sfn2018-training/blob/master/FAIR/SfN_FAIR_Training_opt.pdf)
  - **fMRIPrep**:
@@ -39,9 +40,11 @@
      - [presentation](https://effigies.github.io/niflows-intro/#1)
  - **Neuroscout**:
      - TODO: link to the presentation
+     - [Neuroscout website](https://alpha.neuroscout.org/)
+     - [FitLins repo](https://github.com/poldracklab/FitLins)
  - **OpenNeuro**:
+     - [OpenNeuro website](https://openneuro.org/)
      - [The Open Brain Consent project](https://open-brain-consent.readthedocs.io/en/stable/)
-     - TODO: link to the presentation
  - **Using the cloud (NITRC in the cloud)**:
      - TODO: link to the presentation
  - **Nipype in the cloud (SLURM, AWS batch)**:
