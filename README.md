@@ -2,7 +2,7 @@
  Training materials for the ReproNim day at https://coastal-coding.github.io
 
 ### Links to the presentations:
- - **The UNIX Shell***: 
+ - **The UNIX Shell**: 
      - [presentation / hands-on exercises](http://www.reproducibleimaging.org/coco2019-training/02-01-shell/) 
  - **Containers (Docker, Neurodocker, Singularity)**:
      - [presentation](http://www.reproducibleimaging.org/coco2019-training/presentations/containers/presentation/#1)
@@ -25,7 +25,7 @@
      - TODO link to the presentation
  - **Graphical Nipype with Giraffe.tools**:
      - [Gitaffe website] (https://giraffe.tools/)
-     - TODO: link to the presentation
+     - [presentation](https://github.com/nipype/coco2019-training/blob/master/presentations/GiraffeTools%2C%20Tim%20van%20Mourik.pdf)
  - **Using Interfaces and Workflows in a script**:
      - TODO
  - **Introducing TestKraken: Test your Workflow**:
