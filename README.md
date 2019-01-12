@@ -59,6 +59,7 @@
      
 ### Additional links:
 - [review qstions](https://docs.google.com/document/d/16Gjp-Z5q4C0dCWs77AbW7snpjRH53sXPMN0yYzQ56E0/edit)
+- [neurostars.org](https://neurostars.org/)
 
 ### Docker containers used during the workshop:
 - kaczmarj/coco2019:day1
