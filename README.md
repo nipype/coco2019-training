@@ -1,7 +1,7 @@
 # coco2019-training
  Training materials for the ReproNim day at https://coastal-coding.github.io
 
-Links to the presentations:
+### Links to the presentations:
  - **The UNIX Shell***: 
      - [presentation / hands-on exercises](http://www.reproducibleimaging.org/coco2019-training/02-01-shell/) 
  - **Containers (Docker, Neurodocker, Singularity)**:
@@ -44,3 +44,5 @@ Links to the presentations:
      - TODO: link to the presentation
      - TODO
      
+### Additional links:
+- [review qstions](https://docs.google.com/document/d/16Gjp-Z5q4C0dCWs77AbW7snpjRH53sXPMN0yYzQ56E0/edit)
