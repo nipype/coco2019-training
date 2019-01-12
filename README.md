@@ -48,7 +48,7 @@
      - [OpenNeuro website](https://openneuro.org/)
      - [The Open Brain Consent project](https://open-brain-consent.readthedocs.io/en/stable/)
  - **Using the cloud (NITRC in the cloud)**:
-     - TODO: link to the presentation
+     - [presentation](https://docs.google.com/presentation/d/1we5_sLB05TmaGPZPbgsMPQopORFJCd8k0pPB8oERcdc/edit#slide=id.p)
  - **Nipype in the cloud (SLURM, AWS batch)**:
      - TODO: link to the presentation
  - **CSV to NIDM/JSON**: 
@@ -60,4 +60,5 @@
 ### Docker containers used during the workshop:
 - kaczmarj/coco2019:day1
 - kaczmarj/coco2019:day2
+- kaczmarj/coco2019:day3
 - kaczmarj/testkraken
