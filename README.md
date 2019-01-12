@@ -7,6 +7,7 @@
  - **Containers (Docker, Neurodocker, Singularity)**:
      - [presentation](http://www.reproducibleimaging.org/coco2019-training/presentations/containers/presentation/#1)
      - [hands-on exercises](http://www.reproducibleimaging.org/coco2019-training/presentations/containers/exercises/#1)
+     - [Neurodocker on github](https://github.com/kaczmarj/neurodocker)
  - **Datalad/Git/Git-Annex/GitHub**:
      - [presentation / hands-on exercises](http://www.reproducibleimaging.org/coco2019-training/02-02-distros/)
  - **BIDS**:
@@ -31,6 +32,7 @@
  - **Introducing TestKraken: Test your Workflow**:
      - [presentation](https://github.com/nipype/coco2019-training/blob/master/presentations/testkraken.pdf)
      - [notes / useful commands](https://docs.google.com/document/d/1kzhCd4MPPyI-NSowhaRp_gAQ25SPswlTisbe1RKcz7g/edit?usp=sharing) 
+     - [TestKraken on github](https://github.com/ReproNim/testkraken)
  - **Introducing Niflows: Reuse, Create, and Package your own Workflow**:
      - [presentation](https://effigies.github.io/niflows-intro/#1)
  - **Neuroscout**:
@@ -42,7 +44,8 @@
      - TODO: link to the presentation
  - **Nipype in the cloud (SLURM, AWS batch)**:
      - TODO: link to the presentation
-     - TODO
+ - **CSV to NIDM/JSON**: 
+     - [demo](https://docs.google.com/document/d/1yRla0_I7NCMFEgAkG9qZRw1SB-qQQNkFymTp9A-lcv0/edit#heading=h.jak6t2w7bppu)
      
 ### Additional links:
 - [review qstions](https://docs.google.com/document/d/16Gjp-Z5q4C0dCWs77AbW7snpjRH53sXPMN0yYzQ56E0/edit)
