@@ -24,7 +24,7 @@
      - [CPAC website](http://fcp-indi.github.io/)
      - TODO link to the presentation
  - **Graphical Nipype with Giraffe.tools**:
-     - [Gitaffe website] (https://giraffe.tools/)
+     - [Gitaffe website](https://giraffe.tools/)
      - [presentation](https://github.com/nipype/coco2019-training/blob/master/presentations/GiraffeTools%2C%20Tim%20van%20Mourik.pdf)
  - **Using Interfaces and Workflows in a script**:
      - TODO
