@@ -51,6 +51,7 @@
      - [The Open Brain Consent project](https://open-brain-consent.readthedocs.io/en/stable/)
  - **Using the cloud (NITRC in the cloud)**:
      - [presentation](https://docs.google.com/presentation/d/1we5_sLB05TmaGPZPbgsMPQopORFJCd8k0pPB8oERcdc/edit#slide=id.p)
+     - [commands from the demo](https://docs.google.com/document/d/17FpKuLLrhhcz17XlE5wAjo_7tQhurtUttfanLjwF00c/edit?usp=sharing)
  - **Nipype in the cloud (SLURM, AWS batch)**:
      - TODO: link to the presentation
  - **CSV to NIDM/JSON**: 
