@@ -20,7 +20,7 @@
  - **Heudiconv/ReproIn**:
      - [presentation](http://www.reproducibleimaging.org/coco2019-training/presentations/heudiconv/#1)
  - **Pybids**:
-     - [ipython tutorial](https://github.com/bids-standard/pybids/blob/master/examples/pybids%20tutorial.ipynb)
+     - [ipython notebook tutorial](https://github.com/bids-standard/pybids/blob/master/examples/pybids%20tutorial.ipynb)
      - [pybids website](https://bids-standard.github.io/pybids/)
  - **FAIR publishing**:
      - [presentation](https://github.com/ReproNim/sfn2018-training/blob/master/FAIR/SfN_FAIR_Training_opt.pdf)
@@ -33,7 +33,9 @@
      - [Gitaffe website](https://giraffe.tools/)
      - [presentation](https://github.com/nipype/coco2019-training/blob/master/presentations/GiraffeTools%2C%20Tim%20van%20Mourik.pdf)
  - **Using Interfaces and Workflows in a script**:
-     - TODO
+     - [ipython notebook tutorial: interfaces](https://github.com/miykael/nipype_tutorial/blob/master/notebooks/basic_interfaces.ipynb)
+     - [ipython notebook tutorial: workflows](https://miykael.github.io/nipype_tutorial/notebooks/basic_workflow.html)
+     - [entire Nipype tutorial](https://miykael.github.io/nipype_tutorial/)
  - **Introducing TestKraken: Test your Workflow**:
      - [presentation](https://github.com/nipype/coco2019-training/blob/master/presentations/testkraken.pdf)
      - [notes / useful commands](https://docs.google.com/document/d/1kzhCd4MPPyI-NSowhaRp_gAQ25SPswlTisbe1RKcz7g/edit?usp=sharing) 
