@@ -12,13 +12,15 @@
      - [Neurodocker on github](https://github.com/kaczmarj/neurodocker)
  - **Datalad/Git/Git-Annex/GitHub**:
      - [presentation / hands-on exercises](http://www.reproducibleimaging.org/coco2019-training/02-02-distros/)
+     - [notes / commands](https://docs.google.com/document/d/18bOkOpUPZFsi8dDA3tikFa9_9uBNaiTxFCjZbQxLDuY/edit?usp=sharing)
  - **BIDS**:
      - [presentation](https://www.slideshare.net/chrisfilo1/the-brain-imaging-data-structure-ohbm-2016)
      - [BIDS website](https://bids.neuroimaging.io)
+     - [notes / commands](https://docs.google.com/document/d/1bzZsb8jHAxrXpj1h5-XCmNWhyaw7r4RW5N5GBHusPho/edit?usp=sharing)
  - **Heudiconv/ReproIn**:
-     - TODO: link to the presentation
+     - [presentation](http://www.reproducibleimaging.org/coco2019-training/presentations/heudiconv/#1)
  - **Pybids**:
-     - TODO: link to the notebook/presentation
+     - [ipython tutorial](https://github.com/bids-standard/pybids/blob/master/examples/pybids%20tutorial.ipynb)
      - [pybids website](https://bids-standard.github.io/pybids/)
  - **FAIR publishing**:
      - [presentation](https://github.com/ReproNim/sfn2018-training/blob/master/FAIR/SfN_FAIR_Training_opt.pdf)
@@ -54,3 +56,8 @@
      
 ### Additional links:
 - [review qstions](https://docs.google.com/document/d/16Gjp-Z5q4C0dCWs77AbW7snpjRH53sXPMN0yYzQ56E0/edit)
+
+### Docker containers used during the workshop:
+- kaczmarj/coco2019:day1
+- kaczmarj/coco2019:day2
+- kaczmarj/testkraken
